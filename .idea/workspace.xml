@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bad18947-1b04-4b42-a8cf-72f95c71de5f" name="Changes" comment="fin details stages -dbeut detaik gesttravaux">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;avital-sika&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/avital-sika/portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;0881df93-27e4-4f0e-a18f-4bfa019a2dbd&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\avita\scoop\shims\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="36ZOq4qG4EzlmAttSjnidNe5ykB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/avita/Documents/Portfolio_Avital_Sika/Portfolio_new",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\avita\Documents\Portfolio_Avital_Sika\Portfolio_new\public\assets\files" />
+      <recent name="C:\Users\avita\Documents\Portfolio_Avital_Sika\Portfolio_new\public\assets\images" />
+      <recent name="C:\Users\avita\Documents\Portfolio\assets\images" />
+      <recent name="C:\Users\avita\Documents\Portfolio_php\assets\images" />
+      <recent name="C:\Users\avita\Documents\Portfolio_php" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\avita\Documents\Portfolio_Avital_Sika\Portfolio_new\docs" />
+      <recent name="C:\Users\avita\Documents\Portfolio_Avital_Sika\Portfolio_new" />
+      <recent name="C:\Users\avita\Documents\Portfolio_Avital_Sika\Portfolio_new\public\assets\images" />
+      <recent name="C:\Users\avita\Documents\Portfolio_Avital_Sika\Portfolio_new\public" />
+      <recent name="C:\Users\avita\Documents\Portfolio_Avital_Sika\Portfolio_new\public\assets\files" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bad18947-1b04-4b42-a8cf-72f95c71de5f" name="Changes" comment="" />
+      <created>1765210816344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765210816344</updated>
+      <workItem from="1765210817814" duration="5181000" />
+      <workItem from="1765352767960" duration="152000" />
+      <workItem from="1765357333700" duration="1967000" />
+      <workItem from="1771498055745" duration="1552000" />
+      <workItem from="1771504892641" duration="808000" />
+      <workItem from="1771505735604" duration="4378000" />
+      <workItem from="1772658951213" duration="6494000" />
+      <workItem from="1772740516847" duration="310000" />
+      <workItem from="1772917249279" duration="160000" />
+      <workItem from="1773060744691" duration="4728000" />
+      <workItem from="1773259576060" duration="658000" />
+      <workItem from="1773650271109" duration="9234000" />
+      <workItem from="1773665281343" duration="3146000" />
+      <workItem from="1773744978119" duration="24144000" />
+      <workItem from="1773825667169" duration="4135000" />
+    </task>
+    <task id="LOCAL-00001" summary="portfolio pret: manque details projet perso">
+      <option name="closed" value="true" />
+      <created>1773787693770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773787693770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="portfolio pret: manque details projet perso">
+      <option name="closed" value="true" />
+      <created>1773787728643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773787728643</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ok">
+      <option name="closed" value="true" />
+      <created>1773788646653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773788646653</updated>
+    </task>
+    <task id="LOCAL-00004" summary="en docs">
+      <option name="closed" value="true" />
+      <created>1773789413504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773789413504</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fin details stages -dbeut detaik gesttravaux">
+      <option name="closed" value="true" />
+      <created>1773824884392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773824884392</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fin details stages -dbeut detaik gesttravaux">
+      <option name="closed" value="true" />
+      <created>1773830735005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773830735005</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fin details stages -dbeut detaik gesttravaux">
+      <option name="closed" value="true" />
+      <created>1773831031516</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773831031516</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="portfolio pret: manque details projet perso" />
+    <MESSAGE value="ok" />
+    <MESSAGE value="en docs" />
+    <MESSAGE value="fin details stages -dbeut detaik gesttravaux" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin details stages -dbeut detaik gesttravaux" />
+  </component>
+</project>

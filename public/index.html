@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Avital Sika — Développeuse Full Stack</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Serif+Display&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">&lt;A.S/&gt;</a>
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#nav" style="color:var(--text-muted)">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="nav">
+      <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link active" href="index.html">Accueil</a></li>
+        <li class="nav-item"><a class="nav-link" href="projets.html">Projets</a></li>
+        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+      </ul>
+      <a href="assets/files/CV_Avital_Sika.pdf" download class="btn-cv">Télécharger CV</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<main>
+  <section class="hero">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="hero-eyebrow">Transforme les idées en solutions digitales</div>
+          <h1 class="hero-name">
+            Avital<br><span>Sika</span>
+          </h1>
+          <p class="hero-role">
+            Développeuse <strong><span id="typed-text"> </span>
+            <span class="cursor-blink">|</span></strong>
+          </p>
+          <p class="hero-desc reveal">
+            Étudiante en BTS SIO option SLAM, je suis passionnée par le développement web et Java.
+            Je crée des applications fonctionnelles, sécurisées et au design soigné, pensées et optimisées pour l’utilisateur.
+            <br> Mon objectif : devenir développeuse Full Stack capable de mener des projets complets de A à Z.
+          </p>
+          <div class="hero-ctas">
+            <a href="projets.html" class="btn-primary-custom">
+               Voir mes projets
+            </a>
+            <a href="contact.html" class="btn-outline-custom">Me contacter</a>
+          </div>
+          <div class="tech-badges">
+            <span class="badge-tech">JAVA</span>
+            <span class="badge-tech">PHP</span>
+            <span class="badge-tech">Python</span>
+            <span class="badge-tech">TypeScript</span>
+            <span class="badge-tech">SQL</span>
+            <span class="badge-tech">HTML/CSS</span>
+            <span class="badge-tech">Git</span>
+          </div>
+        </div>
+
+        <div class="col-lg-6">
+          <div class="photo-wrapper">
+            <div class="photo-ring"></div>
+            <div class="photo-ring-2"></div>
+            <img src="assets/images/ma_photo.jpg" class="profile-img" alt="Avital Sika">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="projects-section">
+    <div class="container">
+      <div class="reveal">
+        <h1 class="section-title">Mon parcours</h1>
+        <p class="section-subtitle">Mes diplômes et formations</p>
+      </div>
+
+      <div class="row g-4">
+
+        <div class="col-md-6 col-lg-4 reveal">
+          <div class="project-card">
+            <div class="project-num">2022-2023</div>
+            <h3 class="project-title">Baccalauréat Général</h3>
+            <p class="project-desc">Formation centrée sur la programmation, l’algorithmique et la logique mathématique, avec des projets pratiques en informatique.</p>
+            <div class="project-tags">
+              <span class="project-tag"> Numérique et sciences informatiques</span>
+              <span class="project-tag">mathématiques</span>
+              <span class="project-tag">physique</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-4 reveal">
+          <div class="project-card">
+            <div class="project-num">2024-2026</div>
+            <h3 class="project-title">BTS SIO option SLAM</h3>
+            <p class="project-desc">Formation en initial à l’ORT Daniel Meyer de Montreuil, axée sur le développement de solutions logicielles et la création d’applications web et Java.
+            </p>
+            <p class="project-desc">Expérience pratique sur projets complets : conception, développement, tests et déploiement.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+</main>
+
+<footer>
+  <p>© <span>2026</span> Avital Sika — Développeuse Full Stack en devenir</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/main.js"></script>
+<style>
+  .cursor-blink {
+    animation: blink 1s step-end infinite;
+    color: var(--accent2);
+    font-weight: 300;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+</style>
+</body>
+
+
+</html>

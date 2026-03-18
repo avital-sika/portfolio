@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bad18947-1b04-4b42-a8cf-72f95c71de5f" name="Changes" comment="fin details stages -dbeut detaik gesttravaux">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bad18947-1b04-4b42-a8cf-72f95c71de5f" name="Changes" comment="fin details stages -dbeut detaik gesttravaux" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +52,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/avita/Documents/Portfolio_Avital_Sika/Portfolio_new",
@@ -106,7 +103,7 @@
       <workItem from="1773650271109" duration="9234000" />
       <workItem from="1773665281343" duration="3146000" />
       <workItem from="1773744978119" duration="24144000" />
-      <workItem from="1773825667169" duration="4135000" />
+      <workItem from="1773825667169" duration="4605000" />
     </task>
     <task id="LOCAL-00001" summary="portfolio pret: manque details projet perso">
       <option name="closed" value="true" />
@@ -164,11 +161,43 @@
       <option name="project" value="LOCAL" />
       <updated>1773831031516</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fin details stages -dbeut detaik gesttravaux">
+      <option name="closed" value="true" />
+      <created>1773831192360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773831192360</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fin details stages -dbeut detaik gesttravaux">
+      <option name="closed" value="true" />
+      <created>1773831344637</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773831344637</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="79582f12-df7e-4b2f-9a8e-0aa0ba86986b" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="79582f12-df7e-4b2f-9a8e-0aa0ba86986b">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="portfolio pret: manque details projet perso" />

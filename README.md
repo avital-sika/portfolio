@@ -2,7 +2,7 @@
 
 Bienvenue sur le dépôt de mon portfolio personnel. Ce projet regroupe mes meilleures réalisations, mes compétences techniques et mon parcours en tant que **Futur Développeuse Fullstack**.
 
-Lien direct : 
+Lien direct : https://avitalsika.vercel.app/
 
 ---
 

@@ -39,7 +39,7 @@ document.querySelectorAll('.skill-category').forEach(el => skillObserver.observe
 // Typed text effect
 const typed = document.getElementById('typed-text');
 if (typed) {
-  const words = ['full-stack junior', 'PHP / Java'];
+  const words = [' full-stack junior', ' PHP / Java'];
   let wi = 0, ci = 0, deleting = false;
 
   function typeEffect() {
